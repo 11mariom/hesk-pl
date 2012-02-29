@@ -1,0 +1,17 @@
+Szanowny %%NAME%%,
+
+Zgłoszenie o tytule "%%SUBJECT%%" zostało wprowadzone do systemu. Otrzymasz odpowiedź tak szybko jak to możliwe, zwykle do 24 godzin roboczych.
+
+Numer ID zgłoszenia to: %%TRACK_ID%%
+
+Możesz sprawdzić status zgłoszenia stronie:
+%%TRACK_URL%%
+
+W chwili gdy pracownik serwisu udzieli odpowiedzi, otrzymasz powiadomienie emailowe.
+
+*PROSZĘ NIE ODPOWIADAĆ NA NINIEJSZĄ WIADOMOŚĆ EMAILOWO*
+Jest to wiadomość przesłana przez System Obsługi Klientów! System korzysta z adresu email typu noreplay zatem wszelka korespondecja zwrotna nie będzie mogła zostać odczytana. Korzystaj wyłącznie z adresu %%TRACK_URL%% aby dodać odpowiedź lub uzupełnić swoje zgłoszenie.
+
+Pozdrawiamy,
+%%SITE_TITLE%%
+%%SITE_URL%%

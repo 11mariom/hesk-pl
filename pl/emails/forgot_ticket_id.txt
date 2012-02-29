@@ -1,0 +1,14 @@
+Szanowny %%NAME%%,
+
+Niniejsza wiadomość zawiera listę zgłoszeń przesłanych do Systemu Obsługi Klientów przez Ciebie.
+Znaleziono zgłoszeń: %%NUM%%
+
+%%LIST_TICKETS%%
+
+
+*PROSZĘ NIE ODPOWIADAĆ NA NINIEJSZĄ WIADOMOŚĆ EMAILOWO*
+Jest to wiadomość przesłana przez System Obsługi Klientów! System korzysta z adresu email typu noreplay zatem wszelka korespondecja zwrotna nie będzie mogła zostać odczytana. Korzystaj wyłącznie z adresu %%TRACK_URL%% aby dodać odpowiedź lub uzupełnić swoje zgłoszenie.
+
+Pozdrawiamy,
+%%SITE_TITLE%%
+%%SITE_URL%%

@@ -1,0 +1,16 @@
+Szanowny %%NAME%%,
+
+Dokonano odpowiedzi na zgłoszenie o tytule
+"%%SUBJECT%%"
+
+Możesz odczytać wiadomość pod adresem:
+%%TRACK_URL%%
+
+
+*PROSZĘ NIE ODPOWIADAĆ NA NINIEJSZĄ WIADOMOŚĆ EMAILOWO*
+Jest to wiadomość przesłana przez System Obsługi Klientów! System korzysta z adresu email typu noreplay zatem wszelka korespondecja zwrotna nie będzie mogła zostać odczytana. Korzystaj wyłącznie z adresu %%TRACK_URL%% aby dodać odpowiedź lub uzupełnić swoje zgłoszenie.
+
+
+Pozdrawiamy,
+%%SITE_TITLE%%
+%%SITE_URL%%

@@ -1,0 +1,16 @@
+Witaj,
+
+Klient właśnie odpowiedział na wiadomość w temacie
+"%%SUBJECT%%".
+
+Możesz odczytać wiadomość pod adresem:
+%%TRACK_URL%%
+
+
+*PROSZĘ NIE ODPOWIADAĆ NA NINIEJSZĄ WIADOMOŚĆ EMAILOWO*
+Jeśli chcesz zmienić ustawienia powiadomień o nowych wątkach, zaloguj się w panelu administratora systemu obsługi klientów i przejdź do ustawień profilowych.
+Pod żadnym pozorem nie odpowiadaj na niniejszą widadomość ponieważ email ją wysyłający odsyła odpowiedzi do kosza.
+
+
+Pozdrawiam,
+System Obsługi Klientów HESK
