@@ -1,10 +1,9 @@
 <?php
 /*
-* Przetlumaczyl: Paweł Danielewski www.paweldanielewski.pl
 * Language file for Help Desk Software HESK (www.hesk.com)
-* Language: ENGLISH
+* Language: POLISH
 * Version: 2.1 from 7th August 2009
-* Author: Klemen Stirn (http://www.hesk.com)
+* Author: Paweł Danielewski (www.paweldanielewski.pl)
 */
 
 /* Change the language name and encoding to your own language */
